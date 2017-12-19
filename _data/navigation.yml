@@ -1,11 +1,14 @@
 # main links
+# ATTENTION when uncommenting, don't move the entries to the left or right, as this will break the display.
+# The dash has to be at the third position, then one blank, then the "title" (w/o the qmarks)
+# The "url" must start at the fifth position, just like the "title" 
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "Sample Posts"
-     url: /year-archive/
+  - title: "Sample Posts"
+    url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
