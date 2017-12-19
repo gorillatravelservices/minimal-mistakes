@@ -3,8 +3,8 @@
 # The dash has to be at the third position, then one blank, then the "title" (w/o the qmarks)
 # The "url" must start at the fifth position, just like the "title" 
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Sample Posts"
