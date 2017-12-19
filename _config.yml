@@ -90,7 +90,7 @@ analytics:
 # Site Author
 author:
   name             : "Philippe Tembeya"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "docs/assets/images/bio-photo.jpg"
   bio              : "Fully engaged in conservation"
   location         : "Somewhere in DRC"
   email            :
@@ -198,6 +198,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
