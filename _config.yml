@@ -90,7 +90,7 @@ analytics:
 # Site Author
 author:
   name             : "Philippe Tembeya"
-  avatar           : {{ "/doc/assets/images/bio-photo.jpg" | absolute_url }}
+  avatar           : "../docs/assets/images/bio-photo.jpg"
   bio              : "Fully engaged in conservation"
   location         : "Somewhere in DRC"
   email            :
